@@ -82,19 +82,19 @@ teamwork  : GitHub, documentation, hackathons, structured workflows
   <tr>
     <td>
       <a href="https://github.com/ashu-mishra06/YOUR_REPO_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-mishra06&repo=YOUR_REPO_1&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=30363D&border_radius=6" alt="Project 1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-mishra06&repo=https://github.com/ashu-mishra06/RoadSOS&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=30363D&border_radius=6" alt="Project 1" />
       </a>
     </td>
     <td>
       <a href="https://github.com/ashu-mishra06/YOUR_REPO_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-mishra06&repo=YOUR_REPO_2&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=30363D&border_radius=6" alt="Project 2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-mishra06&repo=https://github.com/ashu-mishra06/Couple-connect&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=30363D&border_radius=6" alt="Project 2" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/ashu-mishra06/YOUR_REPO_3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-mishra06&repo=YOUR_REPO_3&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=30363D&border_radius=6" alt="Project 3" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu-mishra06&repo=https://github.com/vivek-jangela/burn-in-frontend&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=30363D&border_radius=6" alt="Project 3" />
       </a>
     </td>
     <td>

@@ -34,7 +34,7 @@ role      : B.Tech CSE Student
 focus     : Full Stack Development · AI · Android Apps
 approach  : Building real-world projects while learning
 loop      : Code → Debug → Improve → Repeat
-teamwork  : GitHub, documentation, hackathons (SIH 2026 · Team Fuzeppers)
+teamwork  : GitHub, documentation, hackathons (SIH 2026 · Team Secretos )
 ```
 
 ## $ ls ~/stack
